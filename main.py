@@ -8,7 +8,7 @@
 # """
 # # print(21)
 #
-# ism = "Otabek"
+
 # familiya = "Tursunov"
 # tel = "+998 90 779 14 49"
 # # print(ism, tel, "Quva tumani")
